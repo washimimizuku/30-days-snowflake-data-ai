@@ -1,0 +1,56 @@
+# Snowflake
+*.sql.bak
+*.sql~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Credentials (NEVER commit these!)
+*credentials*
+*password*
+*secret*
+*.pem
+*.key
+
+# AWS
+.aws/
+
+# Azure
+.azure/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Data files (if too large)
+data/large/
+*.parquet
+*.gz
+*.zip
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Documentation builds
+docs/_build/
+site/

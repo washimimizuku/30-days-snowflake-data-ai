@@ -1,0 +1,12 @@
+[
+  {"event_id": "evt_001", "customer_id": "cust_123", "event_type": "page_view", "event_timestamp": "2025-12-08T10:00:00", "event_data": {"page": "/home", "duration": 45, "device": "mobile"}},
+  {"event_id": "evt_002", "customer_id": "cust_124", "event_type": "add_to_cart", "event_timestamp": "2025-12-08T10:01:00", "event_data": {"product_id": "prod_456", "quantity": 2, "price": 29.99}},
+  {"event_id": "evt_003", "customer_id": "cust_125", "event_type": "purchase", "event_timestamp": "2025-12-08T10:02:00", "event_data": {"order_id": "ord_789", "amount": 99.99, "payment_method": "credit_card"}},
+  {"event_id": "evt_004", "customer_id": "cust_123", "event_type": "page_view", "event_timestamp": "2025-12-08T10:05:00", "event_data": {"page": "/products", "duration": 120, "device": "desktop"}},
+  {"event_id": "evt_005", "customer_id": "cust_126", "event_type": "search", "event_timestamp": "2025-12-08T10:06:00", "event_data": {"query": "laptop", "results": 45, "filters": ["price_low_to_high"]}},
+  {"event_id": "evt_006", "customer_id": "cust_124", "event_type": "purchase", "event_timestamp": "2025-12-08T10:07:00", "event_data": {"order_id": "ord_790", "amount": 149.99, "payment_method": "paypal"}},
+  {"event_id": "evt_007", "customer_id": "cust_127", "event_type": "page_view", "event_timestamp": "2025-12-08T10:10:00", "event_data": {"page": "/checkout", "duration": 30, "device": "mobile"}},
+  {"event_id": "evt_008", "customer_id": "cust_128", "event_type": "purchase", "event_timestamp": "2025-12-08T10:11:00", "event_data": {"order_id": "ord_791", "amount": 299.99, "payment_method": "credit_card"}},
+  {"event_id": "evt_009", "customer_id": "cust_129", "event_type": "add_to_cart", "event_timestamp": "2025-12-08T10:12:00", "event_data": {"product_id": "prod_789", "quantity": 1, "price": 199.99}},
+  {"event_id": "evt_010", "customer_id": "cust_130", "event_type": "page_view", "event_timestamp": "2025-12-08T10:15:00", "event_data": {"page": "/about", "duration": 60, "device": "tablet"}}
+]
