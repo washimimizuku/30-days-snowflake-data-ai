@@ -6,9 +6,72 @@ A focused bootcamp to prepare for the SnowPro Advanced: Data Engineer certificat
 
 **Target Certification**: SnowPro Advanced: Data Engineer  
 **Duration**: 30 days (2 hours/day = 60 hours total)  
-**Prerequisites**: SnowPro Core Certification (✅ You have this)  
 **Exam Cost**: $375  
 **Exam Format**: 65 questions, 115 minutes, 70% passing score
+
+---
+
+## ⚠️ Prerequisites - READ BEFORE STARTING
+
+**This is an ADVANCED bootcamp.** You must have solid foundations before starting.
+
+### Required Prerequisites
+
+**✅ Certifications & Experience:**
+- SnowPro Core Certification (mandatory)
+- 6+ months hands-on Snowflake experience
+- 1+ years as data engineer, analyst, or developer
+
+**✅ Technical Skills:**
+- **Advanced SQL**: CTEs, window functions, complex joins, subqueries
+- **Data Engineering**: ETL/ELT concepts, data pipelines, data modeling
+- **Cloud Platforms**: AWS/Azure/GCP basics (S3, IAM, storage, networking)
+- **Programming**: Python fundamentals (for Snowpark exercises)
+- **Version Control**: Git basics for collaboration
+
+**✅ Snowflake Experience:**
+- Created databases, schemas, tables, and views
+- Loaded data using COPY commands and stages
+- Written stored procedures or UDFs
+- Used Snowflake web interface (Snowsight)
+- Understanding of warehouses, roles, and privileges
+- Experience with Snowflake's security model
+
+**✅ Infrastructure Knowledge:**
+- Cloud storage concepts (buckets, containers, file formats)
+- Basic networking (VPCs, security groups, firewalls)
+- API concepts (REST, webhooks, authentication)
+- JSON/XML data parsing and manipulation
+
+### Resources to Get Ready
+
+**📚 Need to learn SQL?**  
+[The Ultimate Modern SQL Course](https://www.udemy.com/course/the-ultimate-modern-sql-course) - Comprehensive SQL course that includes Snowflake basics with guided instruction
+
+**❄️ Need deeper Snowflake knowledge?**  
+[Snowflake Masterclass](https://www.udemy.com/course/snowflake-masterclass) - Advanced Snowflake features and enterprise concepts
+
+**🚀 Want advanced SQL for Data & AI?**  
+[30 Days of SQL for Data & AI](https://github.com/washimimizuku/30-days-sql-data-ai) - Hands-on bootcamp covering advanced SQL techniques (starts with basics but goes deep)
+
+**⏰ Time Commitment:**
+- 2 hours per day for 30 consecutive days (no skipping!)
+- Access to Snowflake account with ACCOUNTADMIN privileges
+- $400+ in Snowflake credits (trial account sufficient)
+
+### Self-Assessment Quiz
+
+Before starting, honestly answer these questions:
+
+1. Can you write complex SQL with CTEs and window functions?
+2. Have you created Snowflake databases and loaded data?
+3. Do you understand cloud storage and IAM concepts?
+4. Are you comfortable with basic Python syntax?
+5. Can you commit 2 hours daily for 30 days?
+
+**If you answered "No" to any question, please complete the prerequisite resources first.**
+
+---
 
 ## Bootcamp Structure
 
