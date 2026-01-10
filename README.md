@@ -26,7 +26,7 @@ A focused bootcamp to prepare for the SnowPro Advanced: Data Engineer certificat
 - **Advanced SQL**: CTEs, window functions, complex joins, subqueries
 - **Data Engineering**: ETL/ELT concepts, data pipelines, data modeling
 - **Cloud Platforms**: AWS/Azure/GCP basics (S3, IAM, storage, networking)
-- **Programming**: Python fundamentals (for Snowpark exercises)
+- **Programming**: Basic Python syntax and concepts (for Days 23-24: UDFs and Snowpark)
 - **Version Control**: Git basics for collaboration
 
 **✅ Snowflake Experience:**
@@ -54,6 +54,9 @@ A focused bootcamp to prepare for the SnowPro Advanced: Data Engineer certificat
 **🚀 Want advanced SQL for Data & AI?**  
 [30 Days of SQL for Data & AI](https://github.com/washimimizuku/30-days-sql-data-ai) - Hands-on bootcamp covering advanced SQL techniques (starts with basics but goes deep)
 
+**🐍 Need Python basics for UDFs and Snowpark?**  
+[30 Days of Python for Data & AI](https://github.com/washimimizuku/30-days-python-data-ai) - Learn Python fundamentals and DataFrame concepts needed for Days 23-24
+
 **⏰ Time Commitment:**
 - 2 hours per day for 30 consecutive days (no skipping!)
 - Access to Snowflake account with ACCOUNTADMIN privileges
@@ -66,7 +69,7 @@ Before starting, honestly answer these questions:
 1. Can you write complex SQL with CTEs and window functions?
 2. Have you created Snowflake databases and loaded data?
 3. Do you understand cloud storage and IAM concepts?
-4. Are you comfortable with basic Python syntax?
+4. Are you comfortable with basic Python syntax and DataFrame concepts?
 5. Can you commit 2 hours daily for 30 days?
 
 **If you answered "No" to any question, please complete the prerequisite resources first.**
